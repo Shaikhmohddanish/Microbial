@@ -1,0 +1,3680 @@
+The Green Front at Godrej Park World
+
+BUILDING FLOOR NO
+
+:
+
+PODIUM 2
+
+TGFP2CPL
+
+TGFP2CPL
+
+PARKING CODES
+
+LEVEL
+
+BASEMENT 1
+
+LOWER GROUND LEVEL
+
+UPPER GROUND FLOOR
+
+PODIUM 1
+
+PODIUM 2
+
+PARKING CODE
+
+LEGEND
+
+TYPE OF PARKING
+TYPE OF PARKING
+
+PARKING CODE
+
+SIZE (m)
+
+RETAIL PARKING EXTENT IS MARKED IN SOLID
+GREY HATCH
+
+PARKING CODES - RESIDENTIAL & RETAIL
+
+NOTE -
+
+TGFB1
+
+TGFLG
+
+TGFUG
+
+TGFP1
+
+TGFP2
+
+COVERED PARKING LARGE
+COVERED PARKING LARGE
+
+COVERED PARKING STANDARD
+COVERED PARKING STANDARD
+
+TANDEM (DEPENDENT) PARKING LARGE/LARGE
+
+TANDEM (DEPENDENT) PARKING STANDARD/LARGE
+
+TANDEM (DEPENDENT) PARKING STANDARD/STANDARD
+
+TANDEM (DEPENDENT) PARKING STACK/STANDARD
+
+PARKING STACK (DEPENDENT)
+
+CPL
+
+CPS
+
+TPL/TPL
+
+TPS/TPL
+
+TPS/TPS
+
+TPST/TPS
+
+TPST
+
+2.5 x 5
+
+2.3 x 4.5
+
+2.5 x 5 / 2.5 x 5
+
+2.3 x 4.5 / 2.5 x 5
+
+2.3 x 4.5 / 2.3 x 4.5
+
+2.3 x 4.5 / 2.3 x 4.5
+
+2.3 x 4.5
+
+RETAIL PARKING SEGREGATION WILL NOT BE
+THROUGH FULL HEIGHT SOLID WALL BUT
+THROUGH MS GRILL OR ANY SUCH MATERIAL.
+
+EV CHARGING POINTS
+
+NOTE :
+ALL DIMENSIONS ARE IN MILLIMETER.
+1000MM = 3.28 FT
+
+CANOPY BELOW
+
+PLANTERS AS PER
+LANSCAPE DETAILS
+
+CANOPY BELOW
+
+CANOPY BELOW
+
+CANOPY BELOW
+
+F
+
+G
+
+T
+
+P
+
+2
+-  0
+
+S
+
+P
+
+C
+
+3
+03
+
+F
+
+G
+
+T
+
+P
+
+2
+-  0
+
+S
+
+P
+
+C
+
+2
+02
+
+TGFP2CPS
+- 09
+
+TGFP2CPS
+- 09
+
+TGFP2CPS
+- 09
+
+TGFP2CPS
+- 09
+
+TGFP2CPS
+- 09
+
+TGFP2CPS
+- 09
+
+04
+
+05
+
+06
+
+07
+
+08
+
+09
+
+10
+
+TGFP2CPS - 10
+
+S
+C
+-
+0
+6
+
+S
+C
+-
+0
+7
+
+S
+C
+-
+0
+8
+
+S
+C
+-
+0
+9
+
+S
+C
+-
+1
+0
+
+S
+C
+-
+1
+1
+
+SC-05
+
+SC-04
+
+SC-03
+
+SC-02
+
+TGFP2CPL
+- 01
+
+01
+
+SC-01
+
+Y
+Y
+A
+A
+W
+W
+E
+E
+V
+V
+R
+R
+D
+D
+
+I
+I
+
+.
+.
+
+M
+M
+0
+0
+0
+0
+.
+.
+6
+6
+
+RAMP DN
+
+CAR PARKING
+ENTRY & EXIT AT P2
+
+RAMP UP
+
+1
+
+:
+
+1
+0
+
+7
+
+.
+
+5
+0
+M
+
+S
+L
+O
+P
+E
+
+.
+
+I
+
+W
+D
+E
+
+R
+A
+M
+P
+
+4.50M. DRIVEWAY
+4.50M. DRIVEWAY
+
+SC-63
+
+350
+
+349
+
+348
+
+SC-64
+
+332
+TGFP2CPL - 332
+
+TGFP2CPL
+- 350
+
+PODIUM CLUB
+PANEL ROOM
+3.60X6.00
+
+TGFP2CPL
+- 349
+
+TGFP2CPL
+- 348
+
+347
+
+TGFP2CPL - 347
+
+333
+TGFP2CPL - 333
+
+334
+TGFP2TPL - 334
+
+335
+TGFP2TPL - 335
+
+337
+TGFP2TPL - 337
+
+336
+
+TGFP2TPS - 336
+
+338
+TGFP2CPL - 338
+
+339
+
+TGFP2CPS- 339
+
+PRESS.
+SHAFT
+
+TGFP2CPL
+- 340
+
+340
+
+LIFT
+1.85X
+1.85
+
+3.60
+1.50 1.50
+
+1
+5
+.
+1
+
+8
+2
+.
+5
+
+5
+2
+.
+2
+
+UP DN
+2
+5
+.
+1
+
+PODIUM CLUB
+ELV ROOM
+2.80X3.15
+
+346
+
+TGFP2CPL - 346
+
+345
+
+TGFP2CPL - 345
+
+341
+
+344
+
+TGFP2TPS - 341
+
+TGFP2TPL - 344
+
+343
+
+TGFP2CPL - 343
+
+TGFP2CPL
+- 342
+
+S
+C
+-
+6
+5
+
+342
+
+4.50M. DRIVEWAY
+4.50M. DRIVEWAY
+
+331
+
+330
+
+329
+
+328
+
+TGFP2TPS
+- 331
+
+TGFP2TPL
+- 330
+
+TGFP2TPL
+- 329
+
+TGFP2TPS
+- 328
+
+327
+
+TGFP2CPS
+- 327
+
+326
+TGFP2CPS - 326
+
+322
+
+TGFP2TPS
+- 322
+
+323
+TGFP2TPS
+- 323
+
+324
+TGFP2TPS
+- 324
+
+325
+
+TGFP2TPS
+- 325
+
+S
+C
+-
+6
+6
+
+                                    - 11
+
+                                    - 12
+
+                                    -  11
+
+                                    - 15
+
+                                    - 16
+
+TGFP2CPL
+                                    - 14
+
+TGFP2CPL
+
+TGFP2CPL
+
+TGFP2CPL
+                                    - 17
+
+TGFP2CPL
+
+                                    - 18
+
+                                    - 19
+
+                                    -  20
+
+                                    -  21
+
+                                    -  22
+
+                                    -  23
+
+                                    - 24
+
+                                    - 25
+
+                                    -  26
+
+                                    - 27
+
+                                    -  28
+
+                                    -  29
+
+                                    -  30
+
+                                    -  31
+
+                                    -  32
+
+                                    -  34
+
+                                    -  35
+
+                                    -  37
+
+                                    -  38
+
+                                    -  40
+
+                                    - 41
+
+TGFP2CPL
+                                    -  33
+
+TGFP2CPL
+
+TGFP2CPL
+
+TGFP2CPL
+                                    -  36
+
+TGFP2CPL
+
+TGFP2CPL
+
+TGFP2CPL
+                                    - 39
+
+TGFP2CPL
+
+TGFP2CPL
+
+TGFP2CPL
+
+TGFP2CPL
+
+TGFP2CPL
+
+TGFP2CPL
+
+TGFP2CPL
+
+TGFP2CPL
+
+TGFP2CPL
+
+TGFP2CPL
+
+TGFP2CPL
+
+TGFP2CPL
+
+TGFP2CPL
+
+TGFP2CPL
+
+TGFP2CPL
+
+TGFP2CPL
+
+TGFP2CPL
+
+TGFP2CPS
+-  42
+
+TGFP2CPS
+-  43
+
+TGFP2CPS
+-  44
+
+TGFP2CPS
+-  45
+
+6.00M. WIDE RAMP
+1:10 SLOPE
+
+TGFP2CPL
+-  46
+
+TGFP2CPL
+-  47
+
+TGFP2CPL
+-  48
+
+TGFP2CPL
+-  49
+
+TGFP2CPL
+- 50
+
+TGFP2CPL
+-  51
+
+TGFP2CPL
+-  52
+
+TGFP2CPL
+-  53
+
+TGFP2CPL
+- 54
+
+TGFP2CPL
+- 55
+
+TGFP2CPL
+- 56
+
+TGFP2CPL
+- 57
+
+TGFP2CPL
+- 58
+
+TGFP2CPL
+- 59
+
+TGFP2CPL
+- 60
+
+TGFP2CPL
+- 61
+
+TGFP2CPL
+- 62
+
+TGFP2CPL
+- 63
+
+TGFP2CPL
+- 64
+
+TGFP2CPL
+- 65
+
+TGFP2CPL
+- 66
+
+TGFP2CPL
+- 67
+
+TGFP2CPL
+- 68
+
+TGFP2CPL
+- 69
+
+TGFP2CPL
+- 70
+
+TGFP2CPL
+- 71
+
+TGFP2CPL
+- 72
+
+TGFP2CPL
+- 73
+
+TGFP2CPL
+- 74
+
+TGFP2CPL
+- 75
+
+TGFP2CPL
+- 76
+
+TGFP2CPL
+- 77
+
+TGFP2CPL
+- 78
+
+TGFP2CPL
+- 79
+
+TGFP2CPL
+- 80
+
+TGFP2CPL
+- 81
+
+TGFP2CPL
+- 82
+
+TGFP2CPL
+- 83
+
+TGFP2CPL
+- 84
+
+TGFP2CPS
+- 85
+
+TGFP2CPS
+- 86
+
+S
+C
+-
+1
+2
+
+S
+C
+-
+1
+3
+
+S
+C
+-
+1
+4
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+32
+
+33
+
+34
+
+35
+
+36
+
+37
+
+38
+
+39
+
+40
+
+41
+
+42
+
+43
+
+44
+
+45
+
+SC-15 SC-16
+
+SC-17 SC-18
+
+RAMP DN
+
+46
+
+47
+
+48
+
+49
+
+50
+
+51
+
+52
+
+53
+
+54
+
+55
+
+56
+
+57
+
+58
+
+59
+
+60
+
+61
+
+62
+
+63
+
+64
+
+65
+
+66
+
+67
+
+68
+
+69
+
+70
+
+71
+
+72
+
+73
+
+74
+
+75
+
+76
+
+S
+C
+-
+1
+9
+
+77
+
+78
+
+79
+
+80
+
+81
+
+82
+
+83
+
+84
+
+85
+
+86
+
+5.80M. DRIVEWAY
+5.80M. DRIVEWAY
+
+5.80M. DRIVEWAY
+5.80M. DRIVEWAY
+
+5.80M. DRIVEWAY
+5.80M. DRIVEWAY
+
+5.50M. DRIVEWAY
+5.50M. DRIVEWAY
+
+358
+TGFP2TPL
+- 358
+
+359
+TGFP2TPL
+- 359
+
+S
+C
+-
+4
+9
+
+S
+C
+-
+5
+0
+
+FHC
+SHAFT
+
+SC-62
+
+356
+
+TGFP2CPS - 356
+
+SC-61
+
+SC-60
+
+357
+
+TGFP2TPS
+- 357
+
+418
+
+TGFP2TPS
+- 418
+
+360
+TGFP2TPL
+- 360
+
+361
+TGFP2TPL
+- 361
+
+362
+TGFP2TPL
+- 362
+
+363
+TGFP2TPL
+- 363
+
+364
+TGFP2TPS
+- 364
+
+365
+TGFP2TPL
+- 365
+
+366
+TGFP2TPL
+- 366
+
+367
+TGFP2TPL
+- 367
+
+368
+
+369
+
+TGFP2TPS
+- 368
+
+TGFP2TPS
+- 369
+
+370
+TGFP2TPL
+- 370
+
+371
+TGFP2TPL
+- 371
+
+372
+TGFP2CPL
+- 372
+
+373
+TGFP2CPL
+- 373
+
+374
+TGFP2TPL
+- 374
+
+375
+TGFP2TPL
+- 375
+
+417
+
+416
+
+415
+
+414
+
+413
+
+412
+
+411
+
+410
+
+409
+
+408
+
+407
+
+406
+
+405
+
+404
+
+403
+
+402
+
+TGFP2TPL
+- 417
+
+TGFP2TPL
+- 416
+
+TGFP2TPS
+- 415
+
+TGFP2TPL
+- 414
+
+TGFP2TPS
+- 413
+
+TGFP2TPL
+- 412
+
+TGFP2TPS
+- 411
+
+TGFP2TPL
+- 410
+
+TGFP2TPS
+- 409
+
+TGFP2TPL
+- 408
+
+P
+M
+A
+R
+S
+S
+E
+C
+C
+A
+
+0
+1
+1
+
+:
+
+-
+
+E
+P
+O
+L
+S
+
+TGFP2TPS
+- 407
+
+TGFP2TPS
+- 406
+
+TGFP2TPL
+- 405
+
+TGFP2TPL
+- 404
+
+TGFP2TPL
+- 403
+
+TGFP2TPL
+- 402
+
+TGFP2TPS
+- 401
+
+TGFP2TPS
+- 400
+
+ELECT.
+SHAFT
+
+ELECT.
+SHAFT
+
+376
+
+377
+
+TGFP2TPS
+- 376
+
+TGFP2TPS
+- 377
+
+401
+
+400
+
+378
+TGFP2TPL
+- 378
+
+379
+TGFP2TPL
+- 379
+
+380
+TGFP2TPL
+- 380
+
+381
+TGFP2TPS
+- 381
+
+382
+TGFP2TPL
+- 382
+
+383
+TGFP2TPL
+- 383
+
+384
+TGFP2TPL
+- 384
+
+385
+TGFP2TPL
+- 385
+
+386
+TGFP2TPL
+- 386
+
+387
+
+388
+
+TGFP2TPL
+- 387
+
+TGFP2TPS
+- 388
+
+399
+
+398
+
+397
+
+396
+
+395
+
+394
+
+393
+
+TGFP2TPL
+- 399
+
+TGFP2TPS
+- 398
+
+TGFP2TPL
+- 397
+
+TGFP2TPS
+- 396
+
+TGFP2TPL
+- 395
+
+TGFP2TPS
+- 394
+
+TGFP2TPL
+- 393
+
+392
+
+TGFP2TPS
+- 392
+
+391
+
+390
+
+389
+
+TGFP2TPL
+- 391
+
+TGFP2TPL
+- 390
+
+TGFP2TPS
+- 389
+
+P
+M
+A
+R
+S
+S
+E
+C
+C
+A
+
+0
+1
+1
+
+:
+
+-
+
+E
+P
+O
+L
+S
+
+FHC
+SHAFT
+
+SC-51
+
+SC-52
+
+446
+
+TGFP2CPS - 446
+
+447
+
+TGFP2CPS - 447
+
+448
+
+TGFP2CPS - 448
+
+449
+
+TGFP2CPS - 449
+
+1.80M. WIDE LOBBY
+
+FHC
+SHAFT
+
+1.50M. WIDE PASSAGE
+
+ELV
+SHAFT
+
+1.80M. WIDE PASSAGE
+
+1.80M. WIDE LOBBY
+
+ELV
+SHAFT
+
+1.50M. WIDE PASSAGE
+
+FHC
+SHAFT
+
+LIFT-01
+2.30X2.30
+
+LIFT-02
+2.30X2.30
+
+LIFT-03
+2.30X2.90
+
+1.50 1.50
+UP
+
+0
+5
+.
+3
+
+DN
+4.50
+
+1.50
+0
+5
+.
+1
+0
+5
+.
+0
+0
+5
+.
+1
+
+PHE
+SHAFT
+
+STAIR.
+PRESS.
+
+ELECT.
+SHAFT
+
+ELECT.
+SHAFT
+
+SHAFT
+
+B1
+PANEL ROOM
+3.80X4.60
+
+TGFP2TPL
+- 420
+
+TGFP2TPL
+- 421
+
+TGFP2TPS
+- 422
+
+TGFP2TPS
+- 423
+
+TGFP2TPL
+- 424
+
+TGFP2TPL
+- 425
+
+TGFP2TPL
+- 426
+
+420
+
+421
+
+422
+
+423
+
+424
+
+425
+
+426
+
+TGFP2TPS
+- 419
+
+419
+
+FIRE LIFT
+2.30X2.30
+
+0
+5
+.
+1
+
+5
+4
+.
+0
+
+5
+6
+.
+3
+
+0
+5
+.
+1
+1.50
+
+5.25
+
+DN
+
+STAIR.
+PRESS.
+SHAFT
+
+2.25
+
+UP
+1.50
+
+FIRE
+SHAFT
+
+PHE CUT-OUT
+
+LIFT-04
+2.30X3.20
+
+LIFT-05
+2.30X2.30
+
+LIFT-06
+2.30X2.30
+
+B EXHAUST AIR
+
+B EXHAUST AIR
+
+CUT-OUT
+
+CUT-OUT
+
+LIFT-06
+2.30X2.30
+
+LIFT-05
+2.30X2.30
+
+LIFT-04
+2.30X3.20
+
+STAIR.
+PRESS.
+SHAFT
+
+FIRE
+SHAFT
+
+DN
+5
+5
+.
+3
+UP
+1.50
+
+FIRE LIFT
+2.30X2.30
+
+5.25
+
+0
+5
+.
+1
+
+0
+5
+.
+
+5
+4
+.
+0
+
+2.25
+
+1.501
+
+P
+M
+A
+R
+S
+S
+E
+C
+C
+A
+
+0
+1
+:
+1
+-
+
+E
+P
+O
+L
+S
+
+LOBBY
+PRESS.
+
+TGFP2TPS
+- 427
+
+TGFP2TPL
+- 428
+
+TGFP2TPL
+- 429
+
+TGFP2TPS
+- 430
+
+TGFP2TPL
+- 431
+
+TGFP2TPL
+- 432
+
+TGFP2TPL
+- 433
+
+TGFP2TPS
+- 434
+
+TGFP2TPL
+- 435
+
+TGFP2TPL
+- 436
+
+TGFP2TPS
+- 437
+
+427
+
+428
+
+429
+
+430
+
+431
+
+432
+
+433
+
+434
+
+435
+
+436
+
+437
+
+LOBBY.
+PRESS.
+
+P
+M
+A
+R
+S
+S
+E
+C
+C
+A
+
+0
+1
+:
+1
+-
+
+E
+P
+O
+L
+S
+
+ELECT.
+SHAFT
+
+ELECT.
+SHAFT
+
+SHAFT
+
+B2
+PANEL ROOM
+3.80X4.60
+
+TGFP2TPL
+- 438
+
+TGFP2TPL
+- 439
+
+TGFP2TPL
+- 440
+
+1.50 1.50 1.50
+
+0
+5
+.
+3
+
+0
+5
+.
+1
+0
+5
+.
+0
+0
+5
+.
+1
+
+UP
+
+DN
+
+4.50
+
+PHE CUT-OUT
+PHE
+CUT-OUT
+
+STAIR.
+PRESS.
+TGFP2TPS
+- 441
+
+438
+
+439
+
+440
+
+441
+
+442
+
+443
+
+444
+
+445
+
+TGFP2TPS
+- 442
+
+TGFP2TPL
+- 443
+
+TGFP2TPL
+- 444
+
+TGFP2TPS
+- 445
+
+1.80M. WIDE LOBBY
+
+LIFT-03
+2.30X2.90
+
+LIFT-02
+2.30X2.30
+
+LIFT-01
+2.30X2.30
+
+451
+
+450
+
+TGFP2TPS - 351
+
+TGFP2TPS - 450
+
+452
+
+453
+
+TGFP2TPS - 351
+
+TGFP2TPS - 453
+
+Y
+Y
+A
+A
+W
+W
+E
+E
+V
+V
+R
+R
+D
+D
+
+I
+I
+
+-
+-
+
+M
+M
+5
+5
+.
+.
+4
+4
+
+TGFP2TPS
+- 489
+
+TGFP2TPL
+- 488
+
+TGFP2TPL
+- 487
+
+TGFP2TPL
+- 486
+
+TGFP2TPL
+- 485
+
+TGFP2CPL
+- 484
+
+TGFP2TPL
+- 483
+
+TGFP2TPL
+- 482
+
+TGFP2TPL
+- 481
+
+TGFP2CPL
+- 480
+
+TGFP2TPL
+- 479
+
+TGFP2TPL
+- 478
+
+TGFP2TPL
+- 477
+
+TGFP2TPS
+- 476
+
+TGFP2CPL
+- 475
+
+TGFP2TPL
+- 474
+
+TGFP2TPL
+- 473
+
+TGFP2TPL
+- 472
+
+TGFP2CPL
+- 471
+
+TGFP2TPS
+- 470
+
+TGFP2TPL
+- 469
+
+TGFP2TPL
+- 468
+
+TGFP2TPL
+- 467
+
+TGFP2CPL
+- 466
+
+TGFP2TPL
+- 465
+
+TGFP2TPL
+- 464
+
+TGFP2TPL
+- 463
+
+TGFP2CPL
+- 462
+
+TGFP2TPL
+- 461
+
+TGFP2TPL
+- 460
+
+TGFP2TPL
+- 459
+
+TGFP2TPL
+- 458
+
+TGFP2TPS
+- 457
+
+SC-48
+
+SC-47
+
+SC-46
+
+SC-45
+
+S
+C
+-
+4
+4
+
+183
+
+TGFP2CPS - 183
+
+184
+TGFP2CPL - 184
+
+185
+TGFP2CPL - 185
+
+S
+C
+-
+4
+3
+
+SC-42
+
+SC-41
+
+SC-40
+
+SC-39
+
+I
+I
+
+Y
+Y
+A
+A
+W
+W
+E
+E
+V
+V
+R
+R
+D
+D
+M
+M
+0
+0
+0
+0
+.
+.
+6
+6
+
+.
+.
+
+355
+TGFP2CPL - 355
+
+354
+TGFP2CPL - 354
+
+353
+TGFP2CPL - 353
+
+352
+TGFP2CPL - 352
+
+SC-59
+
+351
+TGFP2CPS - 351
+
+TGFP2TPS
+FHC
+- 182
+SHAFT
+
+125
+
+124
+
+123
+
+PHE
+SHAFT
+
+TGFP2TPS
+- 125
+
+TGFP2TPL
+- 124
+
+TGFP2TPL
+- 123
+
+S
+C
+-
+2
+9
+
+S
+C
+-
+3
+0
+
+122
+
+TGFP2TPL
+- 122
+
+121
+
+120
+
+119
+
+118
+
+117
+
+116
+
+115
+
+114
+
+113
+
+112
+
+111
+
+110
+
+109
+
+108
+
+107
+
+106
+
+105
+
+104
+
+103
+
+102
+
+101
+
+100
+
+99
+
+98
+
+97
+
+TGFP2TPL
+- 121
+
+TGFP2TPL
+- 120
+
+TGFP2TPL
+- 119
+
+TGFP2TPS
+- 118
+
+TGFP2TPL
+- 117
+
+TGFP2TPL
+- 116
+
+TGFP2TPL
+- 115
+
+TGFP2TPS
+- 114
+
+TGFP2TPS
+- 113
+
+TGFP2TPL
+- 112
+
+TGFP2TPL
+- 111
+
+TGFP2CPL
+- 110
+
+TGFP2CPL
+- 109
+
+TGFP2TPL
+- 108
+
+TGFP2TPL
+- 107
+
+TGFP2TPS
+- 106
+
+TGFP2TPS
+ -105
+
+TGFP2TPL
+- 104
+
+TGFP2TPL
+-103
+
+TGFP2TPL
+- 102
+
+TGFP2TPS
+- 101
+
+TGFP2TPL
+- 100
+
+TGFP2TPL
+-  99
+
+TGFP2TPL
+- 98
+
+TGFP2TPL
+- 97
+
+S
+C
+-
+3
+1
+
+S
+C
+-
+3
+2
+
+96
+
+95
+
+94
+
+FHC
+SHAFT
+
+TGFP2TPL
+- 96
+
+TGFP2TPL
+- 95
+
+TGFP2TPS
+- 94
+
+93
+
+TGFP2CPL
+- 93
+
+126
+
+TGFP2TPS
+- 126
+
+127
+TGFP2TPL
+- 127
+
+128
+TGFP2TPL
+- 128
+
+129
+TGFP2TPS
+- 129
+
+130
+TGFP2TPL
+- 130
+
+131
+TGFP2TPS
+- 131
+
+132
+TGFP2TPL
+- 132
+
+133
+
+TGFP2TPS
+- 133
+
+134
+TGFP2TPL
+- 134
+
+135
+TGFP2TPS
+- 135
+
+136
+TGFP2TPL
+- 136
+
+137
+
+138
+
+TGFP2TPS
+-  137
+
+TGFP2TPS
+- 138
+
+139
+TGFP2TPL
+- 139
+
+140
+TGFP2TPL
+- 140
+
+PHE CUT-OUT
+
+141
+TGFP2TPL
+- 141
+
+142
+TGFP2TPL
+- 142
+
+143
+
+144
+
+TGFP2TPS
+- 143
+
+TGFP2TPS
+-  144
+
+ELECT.
+SHAFT
+
+ELECT.
+SHAFT
+
+P
+M
+A
+R
+S
+S
+E
+C
+C
+A
+
+0
+1
+
+:
+
+1
+-
+
+E
+P
+O
+L
+S
+
+P
+M
+A
+R
+S
+S
+E
+C
+C
+A
+
+0
+1
+
+:
+
+1
+-
+
+E
+P
+O
+L
+S
+
+145
+TGFP2TPL
+-  145
+
+146
+TGFP2TPS
+-  146
+
+147
+TGFP2TPL
+- 147
+
+148
+
+TGFP2TPS
+- 148
+
+149
+TGFP2TPL
+- 149
+
+150
+TGFP2TPS
+- 150
+
+151
+TGFP2TPL
+- 151
+
+152
+TGFP2TPS
+- 152
+
+153
+TGFP2TPL
+- 153
+
+154
+TGFP2TPL
+- 154
+
+155
+TGFP2TPS
+- 155
+
+1.80M. WIDE LOBBY
+
+FHC
+SHAFT
+
+1.50M. WIDE PASSAGE
+
+ELV
+SHAFT
+
+1.80M. WIDE LOBBY
+
+1.80M. WIDE LOBBY
+
+ELV
+SHAFT
+
+1.50M. WIDE PASSAGE
+
+FHC
+SHAFT
+
+1.80M. WIDE LOBBY
+
+LIFT-01
+2.30X2.30
+
+LIFT-02
+2.30X2.30
+
+LIFT-03
+2.30X2.90
+
+1.50 1.50
+UP
+
+0
+5
+.
+3
+
+DN
+
+1.50
+0
+5
+.
+1
+0
+5
+.
+0
+0
+5
+.
+1
+
+TGFP2TPS
+- 182
+
+TGFP2TPL
+- 181
+
+TGFP2TPL
+- 180
+
+182
+
+181
+
+180
+
+PHE
+SHAFT
+
+TGFP2TPS
+- 179
+179
+
+STAIR.
+PRESS.
+
+TGFP2TPS
+- 178
+178
+
+ELECT.
+SHAFT
+
+ELECT.
+SHAFT
+
+SHAFT
+
+B3
+PANEL ROOM
+3.80X4.60
+
+TGFP2TPL
+- 177
+
+TGFP2TPL
+- 176
+
+TGFP2TPL
+- 175
+
+177
+
+176
+
+175
+
+0
+1
+:
+1
+
+-
+
+E
+P
+O
+L
+S
+
+P
+M
+A
+R
+S
+S
+E
+C
+C
+A
+
+FIRE LIFT
+2.30X2.30
+
+5.25
+
+DN
+
+0
+5
+.
+1
+
+5
+4
+.
+0
+
+5
+6
+.
+3
+
+0
+5
+.
+1
+1.50
+
+LOBBY
+PRESS.
+
+UP
+1.50
+
+2.25
+
+PHE CUT-OUT
+
+STAIR.
+PRESS.
+SHAFT
+
+FIRE
+SHAFT
+
+LIFT-04
+2.30X3.20
+
+LIFT-05
+2.30X2.30
+
+LIFT-06
+2.30X2.30
+
+B EXHAUST
+AIR CUT-OUT
+
+B EXHAUST
+AIR CUT-OUT
+
+LIFT-06
+2.30X2.30
+
+LIFT-05
+2.30X2.30
+
+LIFT-04
+2.30X3.20
+
+PHE
+SHAFT
+
+STAIR.
+PRESS.
+SHAFT
+
+FIRE
+SHAFT
+
+1.50
+DN
+
+5
+5
+.
+3
+
+UP
+
+FIRE LIFT
+2.30X2.30
+
+2.25
+
+5.25
+
+1.50
+0
+5
+.
+1
+
+5
+4
+.
+0
+
+0
+5
+.
+1
+
+TGFP2TPS
+- 174
+
+TGFP2TPL
+- 173
+
+TGFP2TPL
+- 172
+
+TGFP2TPS
+- 171
+
+TGFP2TPL
+- 170
+
+TGFP2TPL
+- 169
+
+TGFP2TPL
+- 168
+
+TGFP2TPS
+- 167
+
+TGFP2TPL
+- 166
+
+TGFP2TPL
+- 165
+
+TGFP2TPS
+- 164
+
+174
+
+173
+
+172
+
+171
+
+170
+
+169
+
+168
+
+167
+
+166
+
+165
+
+164
+
+LOBBY
+PRESS.
+
+P
+M
+A
+R
+S
+S
+E
+C
+C
+A
+
+0
+1
+:
+1
+
+-
+
+E
+P
+O
+L
+S
+
+TGFP2TPL
+- 163
+
+TGFP2TPL
+- 162
+
+TGFP2TPL
+- 161
+
+163
+
+162
+
+161
+
+ELECT.
+SHAFT
+
+ELECT.
+SHAFT
+
+SHAFT
+
+B4
+PANEL ROOM
+3.80X4.60
+
+UP
+
+01.50 1.50 1.50
+5
+.
+1
+0
+.
+5
+0
+0
+5
+.
+1
+
+DN
+
+4.50
+PHE SHAFT
+
+LIFT-03
+2.30X2.90
+
+LIFT-02
+2.30X2.30
+
+LIFT-01
+2.30X2.30
+
+STAIR.
+PRESS.
+
+TGFP2TPS
+- 160
+
+160
+
+TGFP2TPS
+- 159
+
+TGFP2TPL
+- 158
+
+TGFP2TPL
+- 157
+
+TGFP2TPS
+- 156
+
+159
+
+158
+
+157
+
+156
+
+TGFP2TPS
+- 186
+
+TGFP2TPL
+-  187
+
+TGFP2TPL
+- 188
+
+TGFP2TPL
+- 189
+
+TGFP2TPL
+- 190
+
+TGFP2CPL
+- 191
+
+TGFP2TPL
+- 192
+
+TGFP2TPL
+- 193
+
+TGFP2TPL
+- 194
+
+TGFP2CPL
+- 195
+
+TGFP2TPL
+- 196
+
+TGFP2TPL
+- 197
+
+TGFP2TPL
+- 198
+
+TGFP2TPS
+- 199
+
+TGFP2CPL
+- 200
+
+TGFP2TPL
+- 201
+
+TGFP2TPL
+- 202
+
+TGFP2TPL
+-203
+
+TGFP2CPL
+- 204
+
+TGFP2TPS
+- 205
+
+TGFP2TPL
+- 206
+
+TGFP2TPL
+- 207
+
+TGFP2TPL
+- 208
+
+TGFP2CPL
+- 209
+
+TGFP2TPL
+- 210
+
+TGFP2TPL
+- 211
+
+TGFP2TPL
+- 212
+
+TGFP2CPL
+- 213
+
+TGFP2TPL
+- 214
+
+TGFP2TPL
+- 215
+
+TGFP2TPL
+- 216
+
+TGFP2TPL
+- 217
+
+TGFP2TPS
+- 218
+
+489
+
+SC-58
+
+488
+
+487
+
+486
+
+S
+C
+-
+5
+7
+
+485
+
+484
+
+483
+
+482
+
+481
+
+480
+
+479
+
+478
+
+477
+
+476
+
+475
+
+474
+
+473
+
+472
+
+471
+
+470
+
+469
+
+468
+
+467
+
+466
+
+465
+
+464
+
+463
+
+462
+
+461
+
+460
+
+459
+
+458
+
+457
+
+S
+C
+-
+5
+6
+
+SC-55
+
+5.35M. DRIVEWAY
+
+SC-38
+
+186
+
+187
+
+188
+
+189
+
+S
+C
+-
+3
+7
+
+190
+
+191
+
+192
+
+193
+
+194
+
+195
+
+196
+
+197
+
+198
+
+199
+
+200
+
+201
+
+202
+
+203
+
+204
+
+205
+
+206
+
+207
+
+208
+
+209
+
+210
+
+211
+
+212
+
+213
+
+214
+
+215
+
+216
+
+217
+
+218
+
+S
+C
+-
+3
+6
+
+5.35M. DRIVEWAY
+
+454
+
+TGFP2CPL - 454
+
+455
+
+TGFP2CPL - 455
+
+456
+
+TGFP2CPL - 456
+
+SC-54 SC-53
+
+5.30M. DRIVEWAY
+5.30M. DRIVEWAY
+
+TGFP2CPS
+- 87
+
+87
+
+S
+C
+-
+2
+0
+
+S
+C
+-
+2
+1
+
+SC-22
+
+SC-23
+
+SC-24
+
+SC-25
+
+SC-26
+
+SC-27
+
+SC-28
+
+219
+
+TGFP2CPS
+- 219
+
+220
+
+TGFP2CPS
+- 220
+
+221
+
+TGFP2CPS
+- 221
+
+Y
+Y
+A
+A
+W
+W
+E
+E
+V
+V
+R
+R
+D
+D
+
+I
+I
+
+.
+.
+
+M
+M
+0
+0
+5
+5
+.
+.
+4
+4
+
+92
+
+TGFP2CPL - 92
+
+91
+
+TGFP2CPL - 91
+
+90
+
+TGFP2CPL - 90
+
+89
+
+TGFP2CPL - 89
+
+SC-33
+
+88
+TGFP2CPS - 88
+
+SC-35
+
+SC-34
+
+321
+
+320
+
+319
+
+318
+
+317
+
+316
+
+315
+
+314
+
+313
+
+312
+
+311
+
+310
+
+309
+
+308
+
+307
+
+306
+
+305
+
+304
+
+303
+
+302
+
+301
+
+300
+
+299
+
+298
+
+297
+
+296
+
+295
+
+294
+
+293
+
+292
+
+291
+
+290
+
+289
+
+288
+
+287
+
+286
+
+285
+
+284
+
+283
+
+282
+
+281
+
+280
+
+279
+
+278
+
+277
+
+276
+
+275
+
+274
+
+273
+
+272
+
+271
+
+270
+
+269
+
+268
+
+267
+
+266
+
+265
+
+264
+
+263
+
+262
+
+261
+
+260
+
+259
+
+258
+
+257
+
+256
+
+255
+
+254
+
+253
+
+252
+
+251
+
+250
+
+249
+
+248
+
+247
+
+246
+
+245
+
+244
+
+243
+
+242
+
+241
+
+240
+
+239
+
+238
+
+237
+
+236
+
+235
+
+234
+
+233
+
+232
+
+231
+
+230
+
+229
+
+228
+
+227
+
+226
+
+225
+
+224
+
+223
+
+222
+
+TGFP2CPS
+- 321
+
+TGFP2CPS
+- 320
+
+TGFP2CPS
+- 319
+
+TGFP2CPS
+- 318
+
+TGFP2CPS
+- 317
+
+TGFP2CPS
+- 316
+
+TGFP2CPS
+- 315
+
+TGFP2CPS
+- 314
+
+TGFP2CPS
+- 313
+
+TGFP2CPS
+- 312
+
+TGFP2CPS
+- 311
+
+TGFP2CPS
+- 310
+
+TGFP2CPS
+- 309
+
+TGFP2CPS
+- 308
+
+TGFP2CPS
+- 307
+
+TGFP2CPS
+- 306
+
+TGFP2CPS
+- 305
+
+TGFP2CPS
+- 304
+
+TGFP2CPS
+- 303
+
+TGFP2CPS
+- 302
+
+TGFP2CPS
+- 301
+
+TGFP2CPS
+- 300
+
+TGFP2CPS
+- 299
+
+TGFP2CPS
+- 298
+
+TGFP2CPL
+- 297
+
+TGFP2CPL
+- 296
+
+TGFP2CPL
+- 295
+
+TGFP2CPL
+- 294
+
+TGFP2CPL
+- 293
+
+TGFP2CPL
+- 292
+
+TGFP2CPL
+- 291
+
+TGFP2CPL
+- 290
+
+TGFP2CPL
+- 289
+
+TGFP2CPL
+- 288
+
+TGFP2CPL
+- 287
+
+TGFP2CPL
+- 286
+
+TGFP2CPL
+- 285
+
+TGFP2CPL
+- 284
+
+TGFP2CPL
+- 283
+
+TGFP2CPL
+- 282
+
+TGFP2CPL
+- 281
+
+TGFP2CPL
+- 280
+
+TGFP2CPL
+- 279
+
+TGFP2CPL
+- 278
+
+TGFP2CPL
+- 277
+
+TGFP2CPL
+- 276
+
+TGFP2CPL
+- 275
+
+TGFP2CPL
+- 274
+
+TGFP2CPL
+- 273
+
+TGFP2CPL
+- 272
+
+TGFP2CPL
+- 271
+
+TGFP2CPL
+- 270
+
+TGFP2CPL
+- 269
+
+TGFP2CPL
+- 268
+
+TGFP2CPL
+- 267
+
+TGFP2CPL
+- 266
+
+TGFP2CPL
+- 265
+
+TGFP2CPL
+- 264
+
+TGFP2CPL
+- 263
+
+TGFP2CPL
+- 262
+
+TGFP2CPL
+- 261
+
+TGFP2CPL
+- 260
+
+TGFP2CPL
+TGFP2CPL
+- 259
+- 259
+
+TGFP2CPL
+- 258
+
+TGFP2CPL
+- 257
+
+TGFP2CPL
+- 256
+
+TGFP2CPL
+- 255
+
+TGFP2CPL
+- 254
+
+TGFP2CPL
+- 253
+
+TGFP2CPL
+- 252
+
+TGFP2CPL
+- 251
+
+TGFP2CPL
+- 250
+
+TGFP2CPL
+- 249
+
+TGFP2CPL
+- 248
+
+TGFP2CPL
+- 247
+
+TGFP2CPL
+- 246
+
+TGFP2CPL
+- 245
+
+TGFP2CPL
+- 244
+
+TGFP2CPL
+- 243
+
+TGFP2CPL
+- 242
+
+TGFP2CPL
+- 241
+
+TGFP2CPL
+- 240
+
+TGFP2CPL
+- 239
+
+TGFP2CPL
+- 238
+
+TGFP2CPL
+- 237
+
+TGFP2CPL
+- 236
+
+TGFP2CPL
+- 235
+
+TGFP2CPL
+- 234
+
+TGFP2CPL
+- 233
+
+TGFP2CPL
+- 232
+
+TGFP2CPL
+- 231
+
+TGFP2CPL
+- 230
+
+TGFP2CPL
+- 229
+
+TGFP2CPL
+- 228
+
+TGFP2CPL
+- 227
+
+TGFP2CPL
+- 226
+
+TGFP2CPL
+- 225
+
+TGFP2CPL
+- 224
+
+TGFP2CPL
+- 223
+
+TGFP2CPL
+- 222
+
+PODIUM 2  FLOOR PLAN
+
+The Green Front at Godrej Park World
+
+
