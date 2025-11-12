@@ -1,9 +1,7 @@
-import gazanfarImg from '@/assets/images/team/gazanfar.jpg';
 import uzairImg from '@/assets/images/team/uzair-ceo.jpg';
 import nomaanImg from '@/assets/images/team/noman-director.jpg';
 import pravinImg from '@/assets/images/team/pravin.jpg';
 import shivajiImg from '@/assets/images/team/shivaji.jpg';
-import asharImg from '@/assets/images/team/ashar.jpg';
 import rohitImg from '@/assets/images/team/rohit.jpg';
 import jeeto95 from '@/assets/images/products/jeeto-95.png';
 import flora95 from '@/assets/images/products/Flora95.png';
@@ -47,7 +45,7 @@ export const COMPANY = {
   tagline: "Nurturing Growth Through Innovation",
   lisence_number: 'LCFWD 2023080330',
   phone: '+91 9172430269',
-  email: 'gazanfar.khan@microbial.in',
+  email: 'info@microbial.in',
   headOffice: 'Head Office: 107, Brindavanam Apartment, Czech Colony, Sanat Nagar, Hyderabad - 500018',
   registeredOffice: 'Registered Office: Plot C -34/34 MIDC, Hingoli, Maharashtra - 431513',
   mapLink: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3806.1075569317854!2d78.43576577591139!3d17.454565400864908!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb91bf54c9dd6b%3A0xe0c308d3284dedbe!2sBrindavanam%20Apartments!5e0!3m2!1sen!2sjp!4v1732637435568!5m2!1sen!2sjp"',
@@ -343,18 +341,6 @@ export const TEAM = [
     role: 'Production Manager',
     image: ganesh,
     bio: 'M.Sc Biotechnology, Swami Ramanand Teerth Marathwada University Nanded',
-  },
-  {
-    name: 'Mr. Gazanfar Ali Khan',
-    role: 'Business Development Manager',
-    image: gazanfarImg,
-    bio: 'M. Tech. IIT Bombay, Mumbai. Sem-Ex, TU Dresden, Germany.',
-  },
-  {
-    name: 'Mr. Ashar Mirza',
-    role: 'International Relations Manager',
-    image: asharImg,
-    bio: 'B. Tech. IIT Delhi. Software Developer, Japan.',
   }
   
 ];
@@ -398,7 +384,7 @@ export const FAQS = [
   {
     question: 'How to approach for a business opportunities?',
     answer:
-      'You can approach us using the contact us page or directly contact our business development manager Mr. Gazanfar Ali Khan.',
+      'You can approach us using the contact us page or reach out to us directly via phone or email.',
   },
 
 ];
